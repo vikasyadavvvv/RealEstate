@@ -1,5 +1,5 @@
 import aravaliImage from '../../assets/aravali.png';
-import Kr2Villa from '../../assets/Kr2.png'
+import Kr2Villa from '../../assets/kr2.png'
 import Noidafarm from '../../assets/noidafarm.png'
 import Shakhum from '../../assets/shakum.png'
 import RoyalPark from '../../assets/royal.png'
